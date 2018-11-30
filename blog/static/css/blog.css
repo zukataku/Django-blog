@@ -2,23 +2,28 @@
     background-color: #4169e1;
     margin-top: 0;
     padding: 20px 20px 20px 20px;
-    text-align: center;
+    color: #ffffff;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
     font-size: 24pt;
+    text-align: center;
 }
 
 .page-header h2{
-    color: #ffffff;
     font-size: 20pt;
+    text-align: center;
 }
 
 .page-header p{
-    color: #ffffff;
     font-size: 16pt;
+    text-align: center;
 }
+
+.page-header a{
+    float: left;
+}
+
 
 .content {
     position: relative;
@@ -46,8 +51,6 @@ h1, h2, h3, h4, p {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
-    float: left;
     font-size: 18pt;
     margin-left: 30px;
     position: fixed;
