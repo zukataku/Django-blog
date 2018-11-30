@@ -2,20 +2,22 @@
     background-color: #4169e1;
     margin-top: 0;
     padding: 20px 20px 20px 20px;
+    text-align: center;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 24pt;
-    text-decoration: none;
-    text-align: center;
 }
 
 .page-header h2{
     color: #ffffff;
     font-size: 20pt;
-    text-decoration: none;
-    text-align: center;
+}
+
+.page-header p{
+    color: #ffffff;
+    font-size: 16pt;
 }
 
 .content {
@@ -27,7 +29,7 @@
     margin: 0 auto;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, p {
     font-family: 'Avenir Next', cursive;
 }
 
