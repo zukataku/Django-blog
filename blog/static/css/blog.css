@@ -34,6 +34,7 @@ h1, h2, h3, h4, p {
     font-family: 'Avenir Next', cursive;
 }
 
+
 .date {
     color: #828282;
 }
@@ -63,8 +64,8 @@ h1, h2, h3, h4, p {
     border-radius: 10px;
 }
 
-.post a {
-    font-size: 12pt;
+.post h1, a {
+    font-size: 16pt;
     font-weight: bold;
     color: #4169e1;
 }
