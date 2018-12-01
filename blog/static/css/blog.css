@@ -58,25 +58,26 @@ h1, h2, h3, h4, p {
 .post {
     margin-bottom: 20px;
     background: #f5f5f5;
-    padding: 5px 5px 5px;
+    padding: 10px 10px 10px;
     border: 2px solid #808080;
     border-radius: 10px;
 }
 
-.post h1 a {
+.post a {
     font-size: 12pt;
-    color: #4169e1
+    font-weight: bold;
+    color: #4169e1;
 }
 
-.post h1 a:visited {
+/*.post h1 a:visited {
     color: #000000;
 }
 
 .post p {
-    font-size: 10pt;
-}
+}*/
 
 .list-detail-digest{
+    font-size: 10pt;
     overflow: hidden;
     width: 100%;
     display: -webkit-box;
